@@ -1,5 +1,4 @@
-[My Homepage](https://datadunce.github.io/)
-
+![Image](FullSizeRender.jpeg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/datadunce/datadunce.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
